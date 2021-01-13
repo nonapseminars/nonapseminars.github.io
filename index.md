@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 ---
 
 # 不打瞌睡的研讨会
