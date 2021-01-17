@@ -24,4 +24,4 @@ Yubo，加州大学圣塔芭芭拉分校，Majors in Psychological & Brain Scien
 * [文革大屠杀](https://nonapseminars.github.io/files/su2006mass.pdf)
 * [一个地主的死亡](https://nonapseminars.github.io/files/he2006death.pdf)
 * [红色娘子军](https://nonapseminars.github.io/files/mullis2017aesthetics.pdf)
-* [罪行摘要](https://www.youtube.com/watch?v=todeKPCS4KM&t=1660s)
+* [罪行摘要](https://www.youtube.com/watch?v=todeKPCS4KM)
